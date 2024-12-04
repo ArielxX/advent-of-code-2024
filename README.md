@@ -1,14 +1,34 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2024
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
 <!--- advent_readme_stars table --->
+## Results
 
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ |
+| [Day 3](https://adventofcode.com/2023/day/3) | ⭐ | ⭐ |
+| [Day 4](https://adventofcode.com/2023/day/4) | ⭐ | ⭐ |
+<!--- advent_readme_stars table --->
+
+<!--- benchmarking table --->
+## Benchmarks
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---:  |
+| [Day 1](./src/bin/01.rs) | `85.1µs` | `97.3µs` |
+| [Day 2](./src/bin/02.rs) | `167.9µs` | `171.4µs` |
+| [Day 3](./src/bin/03.rs) | `396.8µs` | `402.9µs` |
+| [Day 4](./src/bin/04.rs) | `274.0µs` | `188.0µs` |
 <!--- benchmarking table --->
 
 ---
+<details>
+<summary>Template readme</summary>
 
 ## Template setup
 
