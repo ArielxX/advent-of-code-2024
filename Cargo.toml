@@ -20,11 +20,14 @@ today = ["chrono"]
 test_lib = []
 
 [dependencies]
+aoc-client = "0.2.0"
+regex = "1.11.1"
 
 # Template dependencies
 chrono = { version = "0.4.38", optional = true }
 dhat = { version = "0.3.3", optional = true }
 pico-args = "0.5.0"
 tinyjson = "2.5.1"
+
 
 # Solution dependencies
